@@ -31,11 +31,11 @@ For installation instructions, visit [Tesseract Installation Guide](https://gith
 ### Steps
 1. Clone this repository:
    ```bash
-   git clone https://github.com/pranavsuriya/social-media-analyzer.git
+   git clone https://github.com/pranavsuriya-sr/Social_Media_Content_Analyser.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd social-media-analyzer
+   cd Social_Media_Content_Analyser
    ```
 3. Install the required dependencies
   ```bash
