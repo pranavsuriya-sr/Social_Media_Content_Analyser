@@ -103,7 +103,9 @@ st.markdown("---")
 st.markdown(
     "<div style='text-align: center;'>" \
     "Made with ❤️ by <a href='https://github.com/pranavsuriya-sr' target='_blank'>S R Pranav Suriya</a>. " \
-    "Connect with me on <a href='https://www.linkedin.com/in/sr-pranavsuriya/' target='_blank'>LinkedIn</a>." \
+    "Connect with me on " 
+    "<a href='https://www.linkedin.com/in/sr-pranavsuriya/' target='_blank'>"
+    "<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='LinkedIn' style='width:20px; height:20px; vertical-align:middle;'></a>" \
     "</div>",
     unsafe_allow_html=True
 )
