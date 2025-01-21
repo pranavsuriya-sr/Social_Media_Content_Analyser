@@ -106,6 +106,8 @@ st.markdown(
     "Connect with me on " 
     "<a href='https://www.linkedin.com/in/sr-pranavsuriya/' target='_blank'>"
     "<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='LinkedIn' style='width:20px; height:20px; vertical-align:middle;'></a>" \
+    "<a href='https://www.instagram.com/pranavsuriya_sr/' target='_blank'>"
+    "<img src='https://cdn-icons-png.flaticon.com/512/2111/2111463.png' alt='Instagram' style='width:20px; height:20px; vertical-align:middle;'></a>" \
     "</div>",
     unsafe_allow_html=True
 )
